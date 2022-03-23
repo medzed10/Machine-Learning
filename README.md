@@ -1,18 +1,12 @@
 # Prediction Credit de Logement 
 
-Parmi les techniques du Machine Learning les plus connues, on cite le système de prédiction. Celui-ci utilise les algorithmes de prédiction, ou la machine va apprendre de l’historique dont elle dispose et pourra prédire un comportement sous la forme d’une réponse simple à une question.
+L’objectif de ce projet est la réalisation d’une application web permettant la prédiction de l’accord ou du refus d’un crédit de logement à un client d’une banque.
+À travers un espace visiteur plusieurs utilisateurs peuvent consulter le site, choisir la banque auprès de laquelle ils veulent déposer leurs demandes de crédit, puis effectuer l’opération de prédiction afin de prévoir à l’avance à quel point leur profil correspondait aux critères imposés par la banque.
+Ce système devra être capable avec une précision élevée de prévoir, parmi les banques proposées, celles ayant les critères les plus adéquates au profil de l’utilisateur du système.
+Ainsi, notre projet nous permet de concrétiser nos compétences acquises en gestion de projet, en IHM, en développement et en machine Learning.
 
-![image](https://user-images.githubusercontent.com/74151613/151864921-df45eed2-1dc0-4834-b901-cdc1f7cbd0a1.png)
 
-## Contexte
 
-Utilisation des algorithmes de machine Learning pour la mise en œuvre d’un système de prédiction de l’accord ou du refus d’un crédit de logement à un client d’une banque en fonction de ses caractéristiques.
-
-## Objectif
-
-L'objectif de ce projet est la réalisation d'une application web permettant de prédire l'octroi ou le refus d'un crédit immobilier à un client d'une banque. Pour les 3 banques CIH Bank, BCP, BMCI, on utilisant pour chaque banque un algorithme différent et des critères différentes 
-
-![image](https://user-images.githubusercontent.com/74151613/151864708-0cc741af-ce7e-43b1-8780-78f296d643dd.png)
 
 
 ## Interface Graphique
